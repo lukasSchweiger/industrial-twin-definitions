@@ -1,0 +1,92 @@
+﻿Company Name;Definition Academic;Uni-directional;Bi-directional;1:1 representation;Sufficient representation;Real-Time;Near-Real-Time;Periodic;H2M;M2M;Only physical;Also non physical;Any distinct entity;Types / Instance distinguished;Counterpart and digital twin are created with a time difference;Performance;Availability;Quality;BoL;MoL;EoL;Automation;Detection;Prevention;Optimization;Prediction;Simulation;Sensors;Internal System;External System
+GE;Real-Time,Prediction,Detection,Prevention,Optimization,Any distinct entity;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0
+Oracle;Only physical;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Dassault;Only physical,H2M,Prediction,Simulation;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+ABB;1:1 representation,Performance,Availability,Real-Time,Any distinct entity,Prediction,Detection,BoL,MoL,Internal System,Simulation;0;0;1;0;1;0;0;0;0;0;0;1;0;0;1;1;0;1;1;0;0;1;0;0;1;1;0;1;0
+SAP;Only physical,Performance,Optimization,BoL;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;1;0;0;0;0;0
+Bosch;Only physical,1:1 representation,M2M;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Anylogic;Any distinct entity,Performance,Sensors,Simulation;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;1;1;0;0
+IBM;Only physical,Sufficient representation,Performance,Bi-directional,Sensors,Simulation;0;1;0;1;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;1;0;0
+Deloitte 2017;Also non physical,Performance,MoL,Optimization;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;1;0;0;0;0;0
+Accenture;Also non physical,Counterpart and digital twin are created with a time difference​,Sufficient representation,Simulation;0;0;0;1;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Schindler;MoL,BoL,Quality,Counterpart and digital twin are created with a time difference​,Simulation;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;1;0;0;0
+Rolls Royce;Any distinct entity,MoL,Types / Instance distinguished​;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+Huawei;Real-Time,Simulation,Any distinct entity,BoL,MoL;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;1;0;0;0
+Lenze;Only physical,Sufficient representation,Automation;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+IDTA;Any distinct entity;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+ProSim;Real-Time,Simulation,Optimization,Also non physical;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+The Industry IoT Consortium;Also non physical,Sufficient representation;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+digital twin consortium;Any distinct entity,Real-Time,Simulation,Prediction;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+ITficient;Only physical,Prediction,Performance;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+Deloitte 2020;Simulation,Also non physical,Optimization;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+Microsoft (Azure);Any distinct entity,BoL,Optimization;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0
+Amazon (aws);Optimization,Performance,Only physical;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+Facebook;Also non physical,Simulation;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Nvidia;1:1 representation,Simulation,Any distinct entity;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Cisco;Also non physical,Simulation,Sensors,Real-Time;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0
+Tata;Only physical,Performance,Prediction,Optimization,Real-Time;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+Intel;Also non physical,Availability,Prevention,Prediction;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;1;0;0;0;0
+Huawei;Real-Time,Any distinct entity,Automation;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Hitachi;Also non physical,Uni-directional,Simulation;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Landis und Gyr;Sensors,Only physical,Detection,Quality;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0
+Heidenhain;Only physical,Performance,Availability,Quality,Simulation,1:1 representation;0;0;1;0;0;0;0;0;0;1;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;1;0;0;0
+T Systems;Internal System,External System,Optimization,Simulation,Also non physical,Counterpart and digital twin are created with a time difference​,1:1 representation;0;0;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1
+AIA Aerospace Industries Association;Only physical;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Gartner;Any distinct entity;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Tata;Simulation,Any distinct entity;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+SAS;Performance,Availability,Optimization,Prediction,Detection,1:1 representation,Real-Time,Sensors,Simulation,MoL,Only physical,Prevention,BoL;0;0;1;0;1;0;0;0;0;1;0;0;0;0;1;1;0;1;1;0;0;1;1;1;1;1;1;0;0
+Hexagon (PPM);Optimization,Performance,Quality,Only physical,Near-Real-Time,BoL,MoL;0;0;0;0;1;1;0;0;0;1;0;0;0;0;1;0;1;1;1;0;0;0;0;1;0;0;0;0;0
+Boeing;1:1 representation,Only physical,Performance,Quality,BoL;0;0;1;0;0;0;0;0;0;1;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0
+Linde;Prediction,Internal System,Periodic,Performance,Optimization,Availability;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;1;0;0;1;0
+SMS Group;Counterpart and digital twin are created with a time difference​,Any distinct entity,Internal System,Sensors,BoL,Simulation,Performance,Optimization,MoL,Quality,Availability,Prediction,Real-Time,EoL;0;0;0;0;1;0;0;0;0;0;0;1;0;1;1;1;1;1;1;1;0;0;0;1;1;1;1;1;0
+Industrie2025;Also non physical,Bi-directional,Real-Time,BoL,MoL;0;1;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+Nomoko;Only physical;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+ALSO;Also non physical,H2M,Real-Time,Performance;0;0;0;0;1;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+U-Blox;Also non physical,Performance,Optimization,1:1 representation,Quality,Prediction,Availability,H2M;0;0;1;0;0;0;0;1;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;1;1;0;0;0;0
+Swisscom;Only physical,H2M;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Swiss;H2M,Sensors,Only physical;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+Holcim;Internal System,BoL,MoL,Counterpart and digital twin are created with a time difference​,Only physical;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0
+Lonza;Only physical;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Novartis;Sensors,Simulation,Quality,Real-Time,Bi-directional,Only physical,MoL,H2M,Prediction;0;1;0;0;1;0;0;1;0;1;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;1;1;0;0
+Roche;Only physical,Sufficient representation,Detection,Prediction,Sensors;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0
+Swiss Re;Simulation;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+ASCon Systems;Real-Time;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Yokogawa Insilico;Real-Time,Also non physical,Performance,Quality,Simulation,BoL,Prediction,Optimization;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;0;1;1;0;0;0;0;0;1;1;1;0;0;0
+Accenture;Also non physical,Sensors,1:1 representation,H2M,Internal System,MoL,BoL,Counterpart and digital twin are created with a time difference​;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;1;1;0
+ANDRITZ HYDRO AG;1:1 representation,Also non physical,Sensors;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+Ansaldo Energia Switzerland AG (mit Alleantia);Internal System,Sensors,Only physical,Bi-directional,Quality,H2M,Availability,Prevention,Detection;0;1;0;0;0;0;0;1;0;1;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;1;0
+Beckhoff Automation AG;Simulation,Real-Time,1:1 representation,Optimization,Types / Instance distinguished​,Internal System,M2M,Counterpart and digital twin are created with a time difference​,Quality,BoL,Also non physical;0;0;1;0;1;0;0;0;1;0;1;0;1;1;0;0;1;1;0;0;0;0;0;1;0;1;0;1;0
+CyOne Security AG;Also non physical,Optimization;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+Dematic GmbH;BoL,Any distinct entity,Optimization,Performance,1:1 representation,Internal System,Simulation;0;0;1;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;1;0;1;0;1;0
+dormakaba International Holding AG;Only physical;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Feintool System Parts Lyss AG;Any distinct entity,Optimization;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+FERAG AG;Sensors,H2M,Detection;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0
+Festo AG;1:1 representation,Only physical,Simulation,MoL,BoL,Sensors,Detection;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;1;1;0;0
+FISCHER AG Präzisionsspindeln;Sensors,Prediction,Availability,Quality,Only physical;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;0;1;0;0
+Heidenhain (Schweiz) AG;1:1 representation,Only physical,Simulation,Quality,Performance;0;0;1;0;0;0;0;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+Helbling Technik AG;Also non physical,Detection,Simulation,Performance,Quality,Optimization,BoL,MoL,EoL;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;1;1;1;1;0;1;0;1;0;1;0;0;0
+Hexagon Technology Center GmbH;Any distinct entity,Near-Real-Time,Sufficient representation,Sensors,Internal System,H2M,Performance;0;0;0;1;1;1;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0
+Infosys Limited Bangalore;Types / Instance distinguished​,Real-Time,Also non physical;0;0;0;0;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Johnson Electric International AG;Also non physical;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Komax AG;1:1 representation,Optimization,Only physical;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+KSB (Schweiz) AG;Bi-directional,Real-Time,Sensors,M2M,Only physical;0;1;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+LeanBI AG;Only physical,Sensors,Prediction,Performance,Quality;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;1;0;1;0;0
+Lenze Swiss AG;1:1 representation,Also non physical;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Life Safety Distribution GmbH;Performance,Also non physical,H2M;0;0;0;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Emerson;Also non physical,Simulation,Sufficient representation,Sensors,Internal System,M2M,H2M;0;0;0;1;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0
+Afry (& Siemens);Counterpart and digital twin are created with a time difference​,1:1 representation,Quality,Performance,Sensors,Simulation,Internal System,Only physical;0;0;1;0;0;0;0;0;0;1;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;1;1;1;0
+ALSTOM;Only physical,BoL,Simulation,Performance;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+Ramboll AG;Performance,MoL,Only physical;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+Rockwell Automation Switzerland GmbH;BoL,MoL,EoL,Optimization,Simulation,Performance,Prediction,Sensors,Prevention,Any distinct entity;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;1;1;0;0;1;1;1;1;1;0;0
+Schneider Electric (Schweiz) AG;Real-Time,Prediction,Simulation,1:1 representation,BoL,MoL,Sensors,Also non physical,Performance,Optimization,Internal System;0;0;1;0;1;0;0;0;0;0;1;0;0;0;1;0;0;1;1;0;0;0;0;1;1;1;1;1;0
+Siemens Energy AG;Optimization,Performance,Also non physical,Prediction,Simulation,Availability,Quality,Near-Real-Time,1:1 representation,H2M,Sensors,Internal System,External System;0;0;1;0;1;1;0;1;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;1;1;1;1;1;1
+Siemens Healthcare AG;Any distinct entity,Simulation,Real-Time,Availability,Prediction;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0
+Siemens Logistics AG;Simulation,Also non physical;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Siemens Mobility AG;Also non physical,Simulation,BoL,Performance,Quality,MoL,EoL;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;1;1;1;1;0;0;0;0;0;1;0;0;0
+WAGO Contact SA;Sensors,Sufficient representation;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+Wandfluh AG;Only physical,Sensors,Bi-directional,H2M;0;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+Wärtsilä Services Switzerland AG;Prediction,Simulation,External System,Sensors,Optimization,Performance,Also non physical;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;1;1;1;1;0;1
+Winterthur Gas & Diesel AG;Detection,Sensors,Types / Instance distinguished​,Simulation,Performance,Internal System,MoL,Only physical;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;0;0;1;0;0;0;1;1;1;0
+Zühlke Engineering AG;Sensors,Only physical,Detection,BoL,MoL,Optimization,Performance,Availability;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;1;1;0;0;1;0;1;0;0;1;0;0
+Johnson Controls;Any distinct entity;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

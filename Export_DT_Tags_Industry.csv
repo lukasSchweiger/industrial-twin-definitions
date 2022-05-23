@@ -1,0 +1,91 @@
+﻿Company Name;Industrie;Health;Industrial manufacturer;Software;Consulting;Building;Energy;Automation;Association;Consumer electronics;Aviation;Transportation
+GE;Industrial manufacturer,Energy,Software,Consulting;0;1;1;1;0;1;0;0;0;0;0
+Oracle;Software,Consulting;0;0;1;1;0;0;0;0;0;0;0
+Dassault;Software;0;0;1;0;0;0;0;0;0;0;0
+ABB;Industrial manufacturer,Energy,Automation;0;1;0;0;0;1;1;0;0;0;0
+SAP;Software;0;0;1;0;0;0;0;0;0;0;0
+Bosch;Industrial manufacturer,Automation;0;1;0;0;0;0;1;0;0;0;0
+Anylogic;Software;0;0;1;0;0;0;0;0;0;0;0
+IBM;Software,Consulting;0;0;1;1;0;0;0;0;0;0;0
+Deloitte 2017;Consulting;0;0;0;1;0;0;0;0;0;0;0
+Accenture;Consulting;0;0;0;1;0;0;0;0;0;0;0
+Schindler;Industrial manufacturer,Building;0;1;0;0;1;0;0;0;0;0;0
+Rolls Royce;Aviation,Industrial manufacturer;0;1;0;0;0;0;0;0;0;1;0
+Huawei;Building,Industrial manufacturer,Consumer electronics;0;1;0;0;1;0;0;0;1;0;0
+Lenze;Industrial manufacturer,Automation;0;1;0;0;0;0;1;0;0;0;0
+IDTA;Association;0;0;0;0;0;0;0;1;0;0;0
+ProSim;Consulting;0;0;0;1;0;0;0;0;0;0;0
+The Industry IoT Consortium;Association;0;0;0;0;0;0;0;1;0;0;0
+digital twin consortium;Association;0;0;0;0;0;0;0;1;0;0;0
+ITficient;Consulting;0;0;0;1;0;0;0;0;0;0;0
+Deloitte 2020;Consulting;0;0;0;1;0;0;0;0;0;0;0
+Microsoft (Azure);Consulting,Software,Consumer electronics;0;0;1;1;0;0;0;0;1;0;0
+Amazon (aws);Software,Consulting;0;0;1;1;0;0;0;0;0;0;0
+Facebook;Software;0;0;1;0;0;0;0;0;0;0;0
+Nvidia;Software,Industrial manufacturer;0;1;1;0;0;0;0;0;0;0;0
+Cisco;Software,Industrial manufacturer;0;1;1;0;0;0;0;0;0;0;0
+Tata;Software,Industrial manufacturer,Consulting;0;1;1;1;0;0;0;0;0;0;0
+Intel;Software,Industrial manufacturer;0;1;1;0;0;0;0;0;0;0;0
+Huawei;Industrial manufacturer,Consumer electronics,Building;0;1;0;0;1;0;0;0;1;0;0
+Hitachi;Industrial manufacturer,Software,Building,Energy,Transportation;0;1;1;0;1;1;0;0;0;0;1
+Landis und Gyr;Energy;0;0;0;0;0;1;0;0;0;0;0
+Heidenhain;Software;0;0;1;0;0;0;0;0;0;0;0
+T Systems;Consulting;0;0;0;1;0;0;0;0;0;0;0
+AIA Aerospace Industries Association;Association;0;0;0;0;0;0;0;1;0;0;0
+Gartner;Consulting;0;0;0;1;0;0;0;0;0;0;0
+Tata;Industrial manufacturer,Software,Consulting,Building,Transportation;0;1;1;1;1;0;0;0;0;0;1
+SAS;Software;0;0;1;0;0;0;0;0;0;0;0
+Hexagon (PPM);Software;0;0;1;0;0;0;0;0;0;0;0
+Boeing;Aviation;0;0;0;0;0;0;0;0;0;1;0
+Linde;Energy;0;0;0;0;0;1;0;0;0;0;0
+SMS Group;Industrial manufacturer,Automation;0;1;0;0;0;0;1;0;0;0;0
+Industrie2025;Association;0;0;0;0;0;0;0;1;0;0;0
+Nomoko;Software;0;0;1;0;0;0;0;0;0;0;0
+ALSO;Software,Consulting;0;0;1;1;0;0;0;0;0;0;0
+U-Blox;Industrial manufacturer,Software;0;1;1;0;0;0;0;0;0;0;0
+Swisscom;Consulting;0;0;0;1;0;0;0;0;0;0;0
+Swiss;Aviation;0;0;0;0;0;0;0;0;0;1;0
+Holcim;Building;0;0;0;0;1;0;0;0;0;0;0
+Lonza;Health;1;0;0;0;0;0;0;0;0;0;0
+Novartis;Health;1;0;0;0;0;0;0;0;0;0;0
+Roche;Health;1;0;0;0;0;0;0;0;0;0;0
+Swiss Re;Consulting;0;0;0;1;0;0;0;0;0;0;0
+ASCon Systems;Software,Consulting;0;0;1;1;0;0;0;0;0;0;0
+Yokogawa Insilico;Health;1;0;0;0;0;0;0;0;0;0;0
+Accenture;Consulting;0;0;0;1;0;0;0;0;0;0;0
+ANDRITZ HYDRO AG;Industrial manufacturer,Energy;0;1;0;0;0;1;0;0;0;0;0
+Ansaldo Energia Switzerland AG (mit Alleantia);Energy;0;0;0;0;0;1;0;0;0;0;0
+Beckhoff Automation AG;Automation;0;0;0;0;0;0;1;0;0;0;0
+CyOne Security AG;Software;0;0;1;0;0;0;0;0;0;0;0
+Dematic GmbH;Software,Industrial manufacturer,Automation;0;1;1;0;0;0;1;0;0;0;0
+dormakaba International Holding AG;Industrial manufacturer,Software;0;1;1;0;0;0;0;0;0;0;0
+Feintool System Parts Lyss AG;Industrial manufacturer;0;1;0;0;0;0;0;0;0;0;0
+FERAG AG;Industrial manufacturer,Automation;0;1;0;0;0;0;1;0;0;0;0
+Festo AG;Industrial manufacturer,Automation;0;1;0;0;0;0;1;0;0;0;0
+FISCHER AG Präzisionsspindeln;Industrial manufacturer;0;1;0;0;0;0;0;0;0;0;0
+Heidenhain (Schweiz) AG;Software;0;0;1;0;0;0;0;0;0;0;0
+Helbling Technik AG;Consulting;0;0;0;1;0;0;0;0;0;0;0
+Hexagon Technology Center GmbH;Software;0;0;1;0;0;0;0;0;0;0;0
+Infosys Limited Bangalore;Software,Consulting;0;0;1;1;0;0;0;0;0;0;0
+Johnson Electric International AG;Energy;0;0;0;0;0;1;0;0;0;0;0
+Komax AG;Industrial manufacturer;0;1;0;0;0;0;0;0;0;0;0
+KSB (Schweiz) AG;Industrial manufacturer;0;1;0;0;0;0;0;0;0;0;0
+LeanBI AG;Software,Consulting;0;0;1;1;0;0;0;0;0;0;0
+Lenze Swiss AG;Industrial manufacturer,Software;0;1;1;0;0;0;0;0;0;0;0
+Life Safety Distribution GmbH;Health;1;0;0;0;0;0;0;0;0;0;0
+Emerson;Industrial manufacturer,Energy,Software,Automation;0;1;1;0;0;1;1;0;0;0;0
+Afry (& Siemens);Consulting;0;0;0;1;0;0;0;0;0;0;0
+ALSTOM;Transportation;0;0;0;0;0;0;0;0;0;0;1
+Ramboll AG;Energy;0;0;0;0;0;1;0;0;0;0;0
+Rockwell Automation Switzerland GmbH;Automation,Industrial manufacturer;0;1;0;0;0;0;1;0;0;0;0
+Schneider Electric (Schweiz) AG;Industrial manufacturer,Automation;0;1;0;0;0;0;1;0;0;0;0
+Siemens Energy AG;Energy;0;0;0;0;0;1;0;0;0;0;0
+Siemens Healthcare AG;Health;1;0;0;0;0;0;0;0;0;0;0
+Siemens Logistics AG;Transportation;0;0;0;0;0;0;0;0;0;0;1
+Siemens Mobility AG;Transportation;0;0;0;0;0;0;0;0;0;0;1
+WAGO Contact SA;Industrial manufacturer,Automation;0;1;0;0;0;0;1;0;0;0;0
+Wandfluh AG;Industrial manufacturer;0;1;0;0;0;0;0;0;0;0;0
+Wärtsilä Services Switzerland AG;Industrial manufacturer,Energy;0;1;0;0;0;1;0;0;0;0;0
+Winterthur Gas & Diesel AG;Industrial manufacturer,Energy;0;1;0;0;0;1;0;0;0;0;0
+Zühlke Engineering AG;Consulting;0;0;0;1;0;0;0;0;0;0;0
+Johnson Controls;Building;0;0;0;0;1;0;0;0;0;0;0
