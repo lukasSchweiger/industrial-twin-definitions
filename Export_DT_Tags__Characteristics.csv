@@ -11,7 +11,7 @@ Deloitte 2017;Counterpart,Purpose,Lifecycle,Capabilities;0;0;0;0;1;0;1;1;1;0
 Accenture;Counterpart,Creation,Fidelity,Capabilities;0;1;0;0;1;1;0;0;1;0
 Schindler;Lifecycle,Creation,Capabilities,Purpose;0;0;0;0;0;1;1;1;1;0
 Rolls Royce;Counterpart,Synchronisation,Creation,Fidelity,Lifecycle;0;1;1;0;1;1;0;1;0;0
-Huawei;Counterpart,Synchronisation,Capabilities,Lifecycle;0;0;1;0;1;0;0;1;1;0
+Huawei1;Counterpart,Synchronisation,Capabilities,Lifecycle;0;0;1;0;1;0;0;1;1;0
 Lenze;Counterpart,Fidelity,Capabilities;0;1;0;0;1;0;0;0;1;0
 IDTA;Counterpart,Lifecycle;0;0;0;0;1;0;0;1;0;0
 ProSim;Counterpart,Synchronisation,Capabilities;0;0;1;0;1;0;0;0;1;0
@@ -24,16 +24,16 @@ Amazon (aws);Counterpart,Capabilities,Purpose,Data Sources;0;0;0;0;1;0;1;0;1;1
 Facebook;Counterpart,Capabilities;0;0;0;0;1;0;0;0;1;0
 Nvidia;Capabilities,Fidelity,Counterpart;0;1;0;0;1;0;0;0;1;0
 Cisco;Counterpart,Capabilities,Synchronisation,Data Sources;0;0;1;0;1;0;0;0;1;1
-Tata;Counterpart,Synchronisation,Capabilities,Purpose;0;0;1;0;1;0;1;0;1;0
+Tata1;Counterpart,Synchronisation,Capabilities,Purpose;0;0;1;0;1;0;1;0;1;0
 Intel;Counterpart,Synchronisation,Capabilities,Purpose;0;0;1;0;1;0;1;0;1;0
-Huawei;Synchronisation,Counterpart,Data Link,Capabilities;1;0;1;0;1;0;0;0;1;0
+Huawei2;Synchronisation,Counterpart,Data Link,Capabilities;1;0;1;0;1;0;0;0;1;0
 Hitachi;Counterpart,Capabilities,Data Sources,Data Link,Purpose;1;0;0;0;1;0;1;0;1;1
 Landis und Gyr;Data Sources,Counterpart,Capabilities,Purpose;0;0;0;0;1;0;1;0;1;1
 Heidenhain;Counterpart,Fidelity,Capabilities,Purpose;0;1;0;0;1;0;1;0;1;0
 T Systems;Data Sources,Counterpart,Capabilities,Creation,Fidelity,Lifecycle;0;1;0;0;1;1;0;1;1;1
 AIA Aerospace Industries Association;Counterpart,Synchronisation,Lifecycle,Purpose;0;0;1;0;1;0;1;1;0;0
 Gartner;Counterpart;0;0;0;0;1;0;0;0;0;0
-Tata;Counterpart,Capabilities,Purpose;0;0;0;0;1;0;1;0;1;0
+Tata2;Counterpart,Capabilities,Purpose;0;0;0;0;1;0;1;0;1;0
 SAS;Purpose,Capabilities,Fidelity,Synchronisation,Data Sources,Counterpart,Lifecycle;0;1;1;0;1;0;1;1;1;1
 Hexagon (PPM);Capabilities,Lifecycle,Counterpart,Synchronisation,Purpose;0;0;1;0;1;0;1;1;1;0
 Boeing;Fidelity,Lifecycle,Capabilities,Counterpart,Purpose;0;1;0;0;1;0;1;1;1;0
@@ -52,7 +52,7 @@ Roche;Counterpart,Fidelity,Data Sources,Capabilities;0;1;0;0;1;0;0;0;1;1
 Swiss Re;Capabilities;0;0;0;0;0;0;0;0;1;0
 ASCon Systems;Synchronisation;0;0;1;0;0;0;0;0;0;0
 Yokogawa Insilico;Synchronisation,Counterpart,Purpose,Capabilities,Lifecycle;0;0;1;0;1;0;1;1;1;0
-Accenture;Counterpart,Data Sources,Fidelity,Interfaces,Lifecycle,Creation;0;1;0;1;1;1;0;1;0;1
+Accenture1;Counterpart,Data Sources,Fidelity,Interfaces,Lifecycle,Creation;0;1;0;1;1;1;0;1;0;1
 ANDRITZ HYDRO AG;Counterpart,Fidelity,Data Sources,Synchronisation;0;1;1;0;1;0;0;0;0;1
 Ansaldo Energia Switzerland AG (mit Alleantia);Data Sources,Counterpart,Data Link,Purpose,Interfaces,Capabilities;1;0;0;1;1;0;1;0;1;1
 Beckhoff Automation AG;Capabilities,Synchronisation,Fidelity,Creation,Data Sources,Interfaces,Purpose,Lifecycle,Counterpart;0;1;1;1;1;1;1;1;1;1
