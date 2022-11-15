@@ -8,10 +8,10 @@ Bosch;Industrial manufacturer,Automation;0;1;0;0;0;0;1;0;0;0;0
 Anylogic;Software;0;0;1;0;0;0;0;0;0;0;0
 IBM;Software,Consulting;0;0;1;1;0;0;0;0;0;0;0
 Deloitte 2017;Consulting;0;0;0;1;0;0;0;0;0;0;0
-Accenture;Consulting;0;0;0;1;0;0;0;0;0;0;0
+Accenture1;Consulting;0;0;0;1;0;0;0;0;0;0;0
 Schindler;Industrial manufacturer,Building;0;1;0;0;1;0;0;0;0;0;0
 Rolls Royce;Aviation,Industrial manufacturer;0;1;0;0;0;0;0;0;0;1;0
-Huawei;Building,Industrial manufacturer,Consumer electronics;0;1;0;0;1;0;0;0;1;0;0
+Huawei1;Building,Industrial manufacturer,Consumer electronics;0;1;0;0;1;0;0;0;1;0;0
 Lenze;Industrial manufacturer,Automation;0;1;0;0;0;0;1;0;0;0;0
 IDTA;Association;0;0;0;0;0;0;0;1;0;0;0
 ProSim;Consulting;0;0;0;1;0;0;0;0;0;0;0
@@ -24,16 +24,16 @@ Amazon (aws);Software,Consulting;0;0;1;1;0;0;0;0;0;0;0
 Facebook;Software;0;0;1;0;0;0;0;0;0;0;0
 Nvidia;Software,Industrial manufacturer;0;1;1;0;0;0;0;0;0;0;0
 Cisco;Software,Industrial manufacturer;0;1;1;0;0;0;0;0;0;0;0
-Tata;Software,Industrial manufacturer,Consulting;0;1;1;1;0;0;0;0;0;0;0
+Tata1;Software,Industrial manufacturer,Consulting;0;1;1;1;0;0;0;0;0;0;0
 Intel;Software,Industrial manufacturer;0;1;1;0;0;0;0;0;0;0;0
-Huawei;Industrial manufacturer,Consumer electronics,Building;0;1;0;0;1;0;0;0;1;0;0
+Huawei2;Industrial manufacturer,Consumer electronics,Building;0;1;0;0;1;0;0;0;1;0;0
 Hitachi;Industrial manufacturer,Software,Building,Energy,Transportation;0;1;1;0;1;1;0;0;0;0;1
 Landis und Gyr;Energy;0;0;0;0;0;1;0;0;0;0;0
 Heidenhain;Software;0;0;1;0;0;0;0;0;0;0;0
 T Systems;Consulting;0;0;0;1;0;0;0;0;0;0;0
 AIA Aerospace Industries Association;Association;0;0;0;0;0;0;0;1;0;0;0
 Gartner;Consulting;0;0;0;1;0;0;0;0;0;0;0
-Tata;Industrial manufacturer,Software,Consulting,Building,Transportation;0;1;1;1;1;0;0;0;0;0;1
+Tata2;Industrial manufacturer,Software,Consulting,Building,Transportation;0;1;1;1;1;0;0;0;0;0;1
 SAS;Software;0;0;1;0;0;0;0;0;0;0;0
 Hexagon (PPM);Software;0;0;1;0;0;0;0;0;0;0;0
 Boeing;Aviation;0;0;0;0;0;0;0;0;0;1;0
