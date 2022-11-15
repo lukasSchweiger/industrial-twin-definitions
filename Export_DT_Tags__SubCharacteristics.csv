@@ -8,10 +8,10 @@ Bosch;Only physical,1:1 representation,M2M;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
 Anylogic;Any distinct entity,Performance,Sensors,Simulation;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;1;1;0;0
 IBM;Only physical,Sufficient representation,Performance,Bi-directional,Sensors,Simulation;0;1;0;1;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;1;0;0
 Deloitte 2017;Also non physical,Performance,MoL,Optimization;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;1;0;0;0;0;0
-Accenture;Also non physical,Counterpart and digital twin are created with a time difference​,Sufficient representation,Simulation;0;0;0;1;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Accenture1;Also non physical,Counterpart and digital twin are created with a time difference​,Sufficient representation,Simulation;0;0;0;1;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
 Schindler;MoL,BoL,Quality,Counterpart and digital twin are created with a time difference​,Simulation;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;1;0;0;0
 Rolls Royce;Any distinct entity,MoL,Types / Instance distinguished​;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
-Huawei;Real-Time,Simulation,Any distinct entity,BoL,MoL;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;1;0;0;0
+Huawei1;Real-Time,Simulation,Any distinct entity,BoL,MoL;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;1;0;0;0
 Lenze;Only physical,Sufficient representation,Automation;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
 IDTA;Any distinct entity;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 ProSim;Real-Time,Simulation,Optimization,Also non physical;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0
@@ -24,16 +24,16 @@ Amazon (aws);Optimization,Performance,Only physical;0;0;0;0;0;0;0;0;0;1;0;0;0;0;
 Facebook;Also non physical,Simulation;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
 Nvidia;1:1 representation,Simulation,Any distinct entity;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
 Cisco;Also non physical,Simulation,Sensors,Real-Time;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0
-Tata;Only physical,Performance,Prediction,Optimization,Real-Time;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0
+Tata1;Only physical,Performance,Prediction,Optimization,Real-Time;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0
 Intel;Also non physical,Availability,Prevention,Prediction;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;1;0;1;0;0;0;0
-Huawei;Real-Time,Any distinct entity,Automation;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Huawei2;Real-Time,Any distinct entity,Automation;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
 Hitachi;Also non physical,Uni-directional,Simulation;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
 Landis und Gyr;Sensors,Only physical,Detection,Quality;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0
 Heidenhain;Only physical,Performance,Availability,Quality,Simulation,1:1 representation;0;0;1;0;0;0;0;0;0;1;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;1;0;0;0
 T Systems;Internal System,External System,Optimization,Simulation,Also non physical,Counterpart and digital twin are created with a time difference​,1:1 representation;0;0;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1
 AIA Aerospace Industries Association;Only physical;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Gartner;Any distinct entity;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Tata;Simulation,Any distinct entity;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Tata2;Simulation,Any distinct entity;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
 SAS;Performance,Availability,Optimization,Prediction,Detection,1:1 representation,Real-Time,Sensors,Simulation,MoL,Only physical,Prevention,BoL;0;0;1;0;1;0;0;0;0;1;0;0;0;0;1;1;0;1;1;0;0;1;1;1;1;1;1;0;0
 Hexagon (PPM);Optimization,Performance,Quality,Only physical,Near-Real-Time,BoL,MoL;0;0;0;0;1;1;0;0;0;1;0;0;0;0;1;0;1;1;1;0;0;0;0;1;0;0;0;0;0
 Boeing;1:1 representation,Only physical,Performance,Quality,BoL;0;0;1;0;0;0;0;0;0;1;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0
