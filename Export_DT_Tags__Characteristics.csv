@@ -7,35 +7,35 @@ SAP;Counterpart,Purpose,Capabilities,Lifecycle;0;0;0;0;1;0;1;1;1;0
 Bosch;Counterpart,Fidelity,Interfaces;0;1;0;1;1;0;0;0;0;0
 Anylogic;Counterpart,Purpose,Synchronisation,Lifecycle,Data Sources;0;0;1;0;1;0;1;1;0;1
 IBM;Counterpart,Fidelity,Purpose,Data Link,Data Sources;1;1;0;0;1;0;1;0;0;1
-Deloitte 2017;Counterpart,Purpose,Lifecycle,Capabilities;0;0;0;0;1;0;1;1;1;0
+Deloitte (17);Counterpart,Purpose,Lifecycle,Capabilities;0;0;0;0;1;0;1;1;1;0
 Accenture;Counterpart,Creation,Fidelity,Capabilities;0;1;0;0;1;1;0;0;1;0
 Schindler;Lifecycle,Creation,Capabilities,Purpose;0;0;0;0;0;1;1;1;1;0
 Rolls Royce;Counterpart,Synchronisation,Creation,Fidelity,Lifecycle;0;1;1;0;1;1;0;1;0;0
-Huawei1;Counterpart,Synchronisation,Capabilities,Lifecycle;0;0;1;0;1;0;0;1;1;0
+Huawei 1;Counterpart,Synchronisation,Capabilities,Lifecycle;0;0;1;0;1;0;0;1;1;0
 Lenze;Counterpart,Fidelity,Capabilities;0;1;0;0;1;0;0;0;1;0
 IDTA;Counterpart,Lifecycle;0;0;0;0;1;0;0;1;0;0
 ProSim;Counterpart,Synchronisation,Capabilities;0;0;1;0;1;0;0;0;1;0
-The Industry IoT Consortium;Counterpart,Synchronisation,Fidelity;0;1;1;0;1;0;0;0;0;0
-digital twin consortium;Counterpart,Synchronisation,Fidelity,Purpose,Capabilities;0;1;1;0;1;0;1;0;1;0
+IIoT Consortium;Counterpart,Synchronisation,Fidelity;0;1;1;0;1;0;0;0;0;0
+DT Consortium;Counterpart,Synchronisation,Fidelity,Purpose,Capabilities;0;1;1;0;1;0;1;0;1;0
 ITficient;Counterpart,Purpose,Capabilities;0;0;0;0;1;0;1;0;1;0
-Deloitte 2020;Capabilities,Counterpart;0;0;0;0;1;0;0;0;1;0
-Microsoft (Azure);Counterpart,Capabilities,Lifecycle;0;0;0;0;1;0;0;1;1;0
-Amazon (aws);Counterpart,Capabilities,Purpose,Data Sources;0;0;0;0;1;0;1;0;1;1
+Deloitte (20);Capabilities,Counterpart;0;0;0;0;1;0;0;0;1;0
+Azure;Counterpart,Capabilities,Lifecycle;0;0;0;0;1;0;0;1;1;0
+AWS;Counterpart,Capabilities,Purpose,Data Sources;0;0;0;0;1;0;1;0;1;1
 Facebook;Counterpart,Capabilities;0;0;0;0;1;0;0;0;1;0
 Nvidia;Capabilities,Fidelity,Counterpart;0;1;0;0;1;0;0;0;1;0
 Cisco;Counterpart,Capabilities,Synchronisation,Data Sources;0;0;1;0;1;0;0;0;1;1
-Tata1;Counterpart,Synchronisation,Capabilities,Purpose;0;0;1;0;1;0;1;0;1;0
+Tata 1;Counterpart,Synchronisation,Capabilities,Purpose;0;0;1;0;1;0;1;0;1;0
 Intel;Counterpart,Synchronisation,Capabilities,Purpose;0;0;1;0;1;0;1;0;1;0
-Huawei2;Synchronisation,Counterpart,Data Link,Capabilities;1;0;1;0;1;0;0;0;1;0
+Huawei 2;Synchronisation,Counterpart,Data Link,Capabilities;1;0;1;0;1;0;0;0;1;0
 Hitachi;Counterpart,Capabilities,Data Sources,Data Link,Purpose;1;0;0;0;1;0;1;0;1;1
 Landis und Gyr;Data Sources,Counterpart,Capabilities,Purpose;0;0;0;0;1;0;1;0;1;1
 Heidenhain;Counterpart,Fidelity,Capabilities,Purpose;0;1;0;0;1;0;1;0;1;0
-T Systems;Data Sources,Counterpart,Capabilities,Creation,Fidelity,Lifecycle;0;1;0;0;1;1;0;1;1;1
-AIA Aerospace Industries Association;Counterpart,Synchronisation,Lifecycle,Purpose;0;0;1;0;1;0;1;1;0;0
+T-Systems;Data Sources,Counterpart,Capabilities,Creation,Fidelity,Lifecycle;0;1;0;0;1;1;0;1;1;1
+AIA;Counterpart,Synchronisation,Lifecycle,Purpose;0;0;1;0;1;0;1;1;0;0
 Gartner;Counterpart;0;0;0;0;1;0;0;0;0;0
-Tata2;Counterpart,Capabilities,Purpose;0;0;0;0;1;0;1;0;1;0
+Tata 2;Counterpart,Capabilities,Purpose;0;0;0;0;1;0;1;0;1;0
 SAS;Purpose,Capabilities,Fidelity,Synchronisation,Data Sources,Counterpart,Lifecycle;0;1;1;0;1;0;1;1;1;1
-Hexagon (PPM);Capabilities,Lifecycle,Counterpart,Synchronisation,Purpose;0;0;1;0;1;0;1;1;1;0
+Hexagon;Capabilities,Lifecycle,Counterpart,Synchronisation,Purpose;0;0;1;0;1;0;1;1;1;0
 Boeing;Fidelity,Lifecycle,Capabilities,Counterpart,Purpose;0;1;0;0;1;0;1;1;1;0
 Linde;Data Sources,Capabilities,Synchronisation,Counterpart,Purpose;0;0;1;0;1;0;1;0;1;1
 SMS Group;Counterpart,Creation,Data Sources,Lifecycle,Capabilities,Purpose,Synchronisation;0;0;1;0;1;1;1;1;1;1
@@ -52,40 +52,40 @@ Roche;Counterpart,Fidelity,Data Sources,Capabilities;0;1;0;0;1;0;0;0;1;1
 Swiss Re;Capabilities;0;0;0;0;0;0;0;0;1;0
 ASCon Systems;Synchronisation;0;0;1;0;0;0;0;0;0;0
 Yokogawa Insilico;Synchronisation,Counterpart,Purpose,Capabilities,Lifecycle;0;0;1;0;1;0;1;1;1;0
-Accenture1;Counterpart,Data Sources,Fidelity,Interfaces,Lifecycle,Creation;0;1;0;1;1;1;0;1;0;1
+Accenture 1;Counterpart,Data Sources,Fidelity,Interfaces,Lifecycle,Creation;0;1;0;1;1;1;0;1;0;1
 ANDRITZ HYDRO AG;Counterpart,Fidelity,Data Sources,Synchronisation;0;1;1;0;1;0;0;0;0;1
-Ansaldo Energia Switzerland AG (mit Alleantia);Data Sources,Counterpart,Data Link,Purpose,Interfaces,Capabilities;1;0;0;1;1;0;1;0;1;1
-Beckhoff Automation AG;Capabilities,Synchronisation,Fidelity,Creation,Data Sources,Interfaces,Purpose,Lifecycle,Counterpart;0;1;1;1;1;1;1;1;1;1
-CyOne Security AG;Counterpart,Capabilities;0;0;0;0;1;0;0;0;1;0
-Dematic GmbH;Lifecycle,Counterpart,Fidelity,Purpose,Capabilities,Data Sources;0;1;0;0;1;0;1;1;1;1
-dormakaba International Holding AG;Counterpart;0;0;0;0;1;0;0;0;0;0
-Feintool System Parts Lyss AG;Counterpart,Capabilities;0;0;0;0;1;0;0;0;1;0
-FERAG AG;Data Sources,Interfaces,Capabilities;0;0;0;1;0;0;0;0;1;1
-Festo AG;Fidelity,Capabilities,Counterpart,Lifecycle,Interfaces,Data Sources;0;1;0;1;1;0;0;1;1;1
-FISCHER AG Präzisionsspindeln;Data Sources,Counterpart,Purpose,Capabilities;0;0;0;0;1;0;1;0;1;1
-Heidenhain (Schweiz) AG;Fidelity,Counterpart,Capabilities,Purpose;0;1;0;0;1;0;1;0;1;0
-Helbling Technik AG;Counterpart,Purpose,Capabilities,Lifecycle;0;0;0;0;1;0;1;1;1;0
-Hexagon Technology Center GmbH;Counterpart,Purpose,Synchronisation,Interfaces,Fidelity,Data Sources;0;1;1;1;1;0;1;0;0;1
-Infosys Limited Bangalore;Counterpart,Synchronisation,Creation;0;0;1;0;1;1;0;0;0;0
-Johnson Electric International AG;Counterpart;0;0;0;0;1;0;0;0;0;0
-Komax AG;Fidelity,Counterpart,Capabilities;0;1;0;0;1;0;0;0;1;0
-KSB (Schweiz) AG;Counterpart,Data Link,Capabilities,Synchronisation,Interfaces;1;0;1;1;1;0;0;0;1;0
-LeanBI AG;Counterpart,Data Sources,Capabilities,Purpose;0;0;0;0;1;0;1;0;1;1
-Lenze Swiss AG;Fidelity,Counterpart,Lifecycle;0;1;0;0;1;0;0;1;0;0
-Life Safety Distribution GmbH;Purpose,Counterpart,Interfaces;0;0;0;1;1;0;1;0;0;0
+Ansaldo Energia;Data Sources,Counterpart,Data Link,Purpose,Interfaces,Capabilities;1;0;0;1;1;0;1;0;1;1
+Beckhoff Automation;Capabilities,Synchronisation,Fidelity,Creation,Data Sources,Interfaces,Purpose,Lifecycle,Counterpart;0;1;1;1;1;1;1;1;1;1
+CyOne Security;Counterpart,Capabilities;0;0;0;0;1;0;0;0;1;0
+Dematic;Lifecycle,Counterpart,Fidelity,Purpose,Capabilities,Data Sources;0;1;0;0;1;0;1;1;1;1
+dormakaba;Counterpart;0;0;0;0;1;0;0;0;0;0
+Feintool System Parts;Counterpart,Capabilities;0;0;0;0;1;0;0;0;1;0
+FERAG;Data Sources,Interfaces,Capabilities;0;0;0;1;0;0;0;0;1;1
+Festo;Fidelity,Capabilities,Counterpart,Lifecycle,Interfaces,Data Sources;0;1;0;1;1;0;0;1;1;1
+FISCHER Präzisionsspindeln;Data Sources,Counterpart,Purpose,Capabilities;0;0;0;0;1;0;1;0;1;1
+Heidenhain;Fidelity,Counterpart,Capabilities,Purpose;0;1;0;0;1;0;1;0;1;0
+Helbling Technik;Counterpart,Purpose,Capabilities,Lifecycle;0;0;0;0;1;0;1;1;1;0
+Hexagon Technology Center;Counterpart,Purpose,Synchronisation,Interfaces,Fidelity,Data Sources;0;1;1;1;1;0;1;0;0;1
+Infosys;Counterpart,Synchronisation,Creation;0;0;1;0;1;1;0;0;0;0
+Johnson Electric;Counterpart;0;0;0;0;1;0;0;0;0;0
+Komax;Fidelity,Counterpart,Capabilities;0;1;0;0;1;0;0;0;1;0
+KSB;Counterpart,Data Link,Capabilities,Synchronisation,Interfaces;1;0;1;1;1;0;0;0;1;0
+LeanBI;Counterpart,Data Sources,Capabilities,Purpose;0;0;0;0;1;0;1;0;1;1
+Lenze;Fidelity,Counterpart,Lifecycle;0;1;0;0;1;0;0;1;0;0
+Life Safety Distribution;Purpose,Counterpart,Interfaces;0;0;0;1;1;0;1;0;0;0
 Emerson;Counterpart,Fidelity,Capabilities,Data Sources,Interfaces;0;1;0;1;1;0;0;0;1;1
-Afry (& Siemens);Creation,Fidelity,Purpose,Data Sources,Capabilities,Counterpart;0;1;0;0;1;1;1;0;1;1
+Afry;Creation,Fidelity,Purpose,Data Sources,Capabilities,Counterpart;0;1;0;0;1;1;1;0;1;1
 ALSTOM;Counterpart,Capabilities,Lifecycle,Purpose;0;0;0;0;1;0;1;1;1;0
-Ramboll AG;Purpose,Lifecycle,Counterpart;0;0;0;0;1;0;1;1;0;0
-Rockwell Automation Switzerland GmbH;Counterpart,Lifecycle,Capabilities,Purpose,Data Sources;0;0;0;0;1;0;1;1;1;1
-Schneider Electric (Schweiz) AG;Capabilities,Data Sources,Purpose,Counterpart,Synchronisation,Fidelity,Lifecycle;0;1;1;0;1;0;1;1;1;1
-Siemens Energy AG;Synchronisation,Interfaces,Counterpart,Purpose,Capabilities,Data Sources,Fidelity;0;1;1;1;1;0;1;0;1;1
-Siemens Healthcare AG;Counterpart,Capabilities,Synchronisation,Purpose;0;0;1;0;1;0;1;0;1;0
-Siemens Logistics AG;Capabilities,Counterpart;0;0;0;0;1;0;0;0;1;0
-Siemens Mobility AG;Counterpart,Lifecycle,Capabilities,Purpose;0;0;0;0;1;0;1;1;1;0
-WAGO Contact SA;Data Sources,Fidelity;0;1;0;0;0;0;0;0;0;1
-Wandfluh AG;Interfaces,Counterpart,Data Link,Data Sources;1;0;0;1;1;0;0;0;0;1
-Wärtsilä Services Switzerland AG;Capabilities,Data Sources,Purpose,Counterpart;0;0;0;0;1;0;1;0;1;1
-Winterthur Gas & Diesel AG;Capabilities,Data Sources,Creation,Lifecycle,Purpose,Counterpart;0;0;0;0;1;1;1;1;1;1
-Zühlke Engineering AG;Counterpart,Data Sources,Capabilities,Lifecycle,Purpose;0;0;0;0;1;0;1;1;1;1
+Ramboll;Purpose,Lifecycle,Counterpart;0;0;0;0;1;0;1;1;0;0
+Rockwell Automation;Counterpart,Lifecycle,Capabilities,Purpose,Data Sources;0;0;0;0;1;0;1;1;1;1
+Schneider Electric;Capabilities,Data Sources,Purpose,Counterpart,Synchronisation,Fidelity,Lifecycle;0;1;1;0;1;0;1;1;1;1
+Siemens Energy;Synchronisation,Interfaces,Counterpart,Purpose,Capabilities,Data Sources,Fidelity;0;1;1;1;1;0;1;0;1;1
+Siemens Healthcare;Counterpart,Capabilities,Synchronisation,Purpose;0;0;1;0;1;0;1;0;1;0
+Siemens Logistics;Capabilities,Counterpart;0;0;0;0;1;0;0;0;1;0
+Siemens Mobility;Counterpart,Lifecycle,Capabilities,Purpose;0;0;0;0;1;0;1;1;1;0
+WAGO Contact;Data Sources,Fidelity;0;1;0;0;0;0;0;0;0;1
+Wandfluh;Interfaces,Counterpart,Data Link,Data Sources;1;0;0;1;1;0;0;0;0;1
+Wärtsilä Services;Capabilities,Data Sources,Purpose,Counterpart;0;0;0;0;1;0;1;0;1;1
+WinGD;Capabilities,Data Sources,Creation,Lifecycle,Purpose,Counterpart;0;0;0;0;1;1;1;1;1;1
+Zühlke;Counterpart,Data Sources,Capabilities,Lifecycle,Purpose;0;0;0;0;1;0;1;1;1;1
 Johnson Controls;Counterpart;0;0;0;0;1;0;0;0;0;0
